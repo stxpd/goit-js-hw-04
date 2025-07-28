@@ -1,19 +1,19 @@
 {
-    "name": "homework-3",
+    "name": "homework-4",
     "version": "1.0.0",
-    "description": "Homework-3",
+    "description": "Homework-4",
     "scripts": {
   "push": "git add . && git commit -m 'update' && git push"
 },
     "repository": {
       "type": "git",
-      "url": "https://github.com/stxpd/goit-js-hw-03"
+      "url": "https://github.com/stxpd/goit-js-hw-04"
     },
     "keywords": [],
     "author": "stxpd",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/stxpd/goit-js-hw-03"
+      "url": "https://github.com/stxpd/goit-js-hw-04"
     },
-    "homepage": "https://github.com/stxpd/goit-js-hw-03/blob/main/README.md"
+    "homepage": "https://github.com/stxpd/goit-js-hw-04/blob/main/README.md"
   }
